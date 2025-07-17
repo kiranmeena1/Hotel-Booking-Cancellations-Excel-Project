@@ -1,0 +1,1 @@
+This project analyzes hotel booking data using Microsoft Excel to identify patterns and key factors that lead to booking cancellations. The goal is to provide actionable insights to help hotel management reduce cancellation rates.
